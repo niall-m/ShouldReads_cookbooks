@@ -1,6 +1,6 @@
 name        "shouldreads"
 description "Installs shouldreads"
-maintainer  "Gene"
+maintainer  "Che"
 license     "Apache 2.0"
 version     "1.0.0"
 
